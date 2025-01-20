@@ -1,4 +1,6 @@
-<img align="center" src="https://readme-typing-svg.herokuapp.com?font=Walter+Turncoat&color=%230366DE&size=25&duration=4000&center=true&vCenter=true&width=550&lines=Full+Stack+Developer+With+Below+Certificates;Senior+MERN+Stack+Developer;Senior+Web3+Engineer;Senior+Blockchain+Engineer;Senior+Frontend+Developer" alt="Josip Neretljak" width="100%">
+<p align="center">
+  <a href="https://github.com/itosinu"><img src="https://readme-typing-svg.herokuapp.com/?lines=Blockchain%20developer;Web%20and%20mobile%20master;Senior%20Web3%20Engineer;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+</p>
 
 ![](https://img.shields.io/badge/Network-BitCoin-informational?style=flat&logo=bitcoin&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Network-Ethereum-informational?style=flat&logo=ethereum&logoColor=white&color=3bac3a)
