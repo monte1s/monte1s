@@ -156,6 +156,14 @@
     </td>
  </tr>
 </table>
+
+<h2 align="left" id="macropower-tech">Github Metrics</h2>
+
+<br />
+
+<p align="center">
+    <img alt="metrics" title="Github Metrics" src="https://github.com/itosinu/itosinu/blob/main/github-metrics.svg" width="100%" />
+</p>
   
 ## 𝐖𝐡𝐚𝐭 I 𝐂𝐚𝐧 𝐃𝐨
 
