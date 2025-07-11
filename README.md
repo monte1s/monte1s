@@ -166,7 +166,7 @@
 
 > GitHub 3D Contributors
 
-![](https://github.com/rexon-ramzes/rexon-ramzes/profile-3d-contrib/profile-night-rainbow.svg)
+![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 <br />
 
