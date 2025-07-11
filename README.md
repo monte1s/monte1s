@@ -157,11 +157,6 @@
  </tr>
 </table>
 
-
-> GitHub Profile Status
-
-<br />
-
 > GitHub Activity Graph
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
